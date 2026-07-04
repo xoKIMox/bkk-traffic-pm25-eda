@@ -28,5 +28,5 @@
 * **Hotspots Mismatch:** เขตที่มีปัญหาการจราจรติดขัดสูงสุด ไม่จำเป็นต้องเป็นเขตที่มีค่าเฉลี่ยฝุ่น PM 2.5 สูงสุดเสมอไป[cite: 3, 4]
 
 ## 📂 Project Structure
-* `final_final_code_(2).ipynb`: Source code หลักที่ใช้ในการทำ Data Cleaning, Feature Engineering และ Data Visualization[cite: 4]
+* `final_final_code_(2).ipynb`: Source code หลักที่ใช้ในการทำ Data Cleaning, Feature Engineering และ Data Visualization[cite: 4] https://drive.google.com/drive/folders/1jIcGE6e0ny5n0R_bpGFjO6xWnkW9E7vA
 * `EDA3_กลุ่มที่ 7.pdf`: สไลด์นำเสนอผลการวิเคราะห์และข้อค้นพบเชิงลึก[cite: 3] https://canva.link/p5si0oq8x7fa13b
