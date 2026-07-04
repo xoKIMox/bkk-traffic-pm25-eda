@@ -29,4 +29,4 @@
 
 ## 📂 Project Structure
 * `final_final_code_(2).ipynb`: Source code หลักที่ใช้ในการทำ Data Cleaning, Feature Engineering และ Data Visualization[cite: 4]
-* `EDA3_กลุ่มที่ 7.pdf`: สไลด์นำเสนอผลการวิเคราะห์และข้อค้นพบเชิงลึก[cite: 3]
+* `EDA3_กลุ่มที่ 7.pdf`: สไลด์นำเสนอผลการวิเคราะห์และข้อค้นพบเชิงลึก[cite: 3] https://canva.link/p5si0oq8x7fa13b
